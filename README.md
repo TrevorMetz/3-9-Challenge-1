@@ -4,7 +4,7 @@ This is the first Challenge, where a marketing agency wants to increase accessib
 
 # README for Challenge 1, 3-9-23
 
-In this adctivity, we worked with a marketing agency to help optimize their webiste for search engines.
+In this activity, we worked with a marketing agency to help optimize their webiste for search engines.
 
 ## Instructions
 
